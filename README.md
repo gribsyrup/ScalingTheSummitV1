@@ -34,7 +34,7 @@ Access our Design document
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
 
 ## Week 1 Blog: 
-<a href="Blog Post #1.md">Blog Post for Week 1</a>!
+<a href="Blog Post %231.md">Blog Post for Week 1</a>!
 
 
 
