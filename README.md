@@ -33,8 +33,43 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 Access our Design document 
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
 
-## Week 1 Blog: 
-<a href="Blog Post %231.md">Blog Post for Week 1</a>!
+# Blog post week 2: 
+
+## Tech team: 
+The tech team subdivided the immediate basic tasks we want to get done to each member and began development. The divisions are as follows: 
+James: Grappling implementation 
+Niralya: Necessary basic movement & interaction/Implementing art assets
+Khan: Working with the art team to implement lighting and audio. 
+
+## Art Team: 
+The art team created different models for characters and interactibles for the minimum viable product of the game. 
+Griffin modeled the golem, Lauren modeled the protagonist (a lizardman), and Juliet modeled some interactibles like a minecart. 
+
+Here are some progress screenshots from the art team this week: 
+
+![Lizard protagonist 1](lizardman_1.png)
+
+![Lizard protagonist 2](lizardman_2.png)
+
+![Minecart](minecart.png)
+
+![Pickaxe](pickaxe.png)
+
+# Blog post week 1: 
+
+## Development discussion
+
+We finalized the concept of our game, which involves a lizardman on a mountain mining village who is attempting to collect parts to go down a cliff. 
+
+## Art discussion 
+
+The art team created some fantastic graybox shots of the setting: 
+
+![abandoned mining village](graybox_1.png)
+
+![plant life under a mountain](graybox_2.png)
+
+![snow-covered mountain](graybox_3.png)
 
 
 
