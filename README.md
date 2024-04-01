@@ -33,13 +33,16 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 Access our Design document 
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
 
+## Our Github Repository: 
+https://github.com/gribsyrup/ScalingTheSummitV1/
+
 # Blog post week 2: 
 
 ## Tech team: 
 The tech team subdivided the immediate basic tasks we want to get done to each member and began development. The divisions are as follows: 
 James: Grappling implementation 
 Niralya: Necessary basic movement & interaction/Implementing art assets
-Khan: Working with the art team to implement lighting and audio. 
+Khan: Working with the art team to implement lighting, audio and UI for the runes. 
 
 ## Art Team: 
 The art team created different models for characters and interactibles for the minimum viable product of the game. 
