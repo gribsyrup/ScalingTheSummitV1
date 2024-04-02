@@ -58,6 +58,10 @@ Here are some progress screenshots from the art team this week:
 
 ![Pickaxe](pickaxe.png)
 
+![Golem enemy 1](golem_v1_.75view.png)
+
+![Golem enemy 2](golem_v1_frontview.png)
+
 # Blog post week 1: 
 
 ## Development discussion
