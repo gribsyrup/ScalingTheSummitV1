@@ -36,7 +36,30 @@ Access our Design document
 ## Our Github Repository: 
 https://github.com/gribsyrup/ScalingTheSummitV1/
 
-# Blog post week 2: 
+# Blog post week 3(4/7): 
+
+## Tech team: 
+The tech team has our main design points for our game implemented and will be putting them all together! 
+James: Implemented the main forms of movement, Grappling and Gliding. 
+Niralya: Implemented changing between levels, and getting hit by golems and taking damage. 
+Khan: Implemented sound design for picking up runes and a basic UI. 
+
+## Art team: 
+The art team finished the major maps and models for the game, and they are looking fantastic. Details can be found on the asset map sheet attached to our treatment document.
+Lauren: Worked on major parts of the mining camp map. 
+Juliet: Worked on major parts of the cave map. 
+Griffin: Worked on major elements of both the cave and mining camp map alongside the runes. 
+
+
+Here are some progress screenshots from the art team this week: 
+
+![Mining village 1](blog3image1.png)
+
+![Mining village 2](blog3image2.png)
+
+![Mining village 3](blog3image3.png)
+
+# Blog post week 2 (3/31, Updated with golem photos): 
 
 ## Tech team: 
 The tech team subdivided the immediate basic tasks we want to get done to each member and began development. The divisions are as follows: 
