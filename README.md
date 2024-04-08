@@ -40,14 +40,20 @@ https://github.com/gribsyrup/ScalingTheSummitV1/
 
 ## Tech team: 
 The tech team has our main design points for our game implemented and will be putting them all together! 
+
 James: Implemented the main forms of movement, Grappling and Gliding. 
+
 Niralya: Implemented changing between levels, and getting hit by golems and taking damage. 
+
 Khan: Implemented sound design for picking up runes and a basic UI. 
 
 ## Art team: 
 The art team finished the major maps and models for the game, and they are looking fantastic. Details can be found on the asset map sheet attached to our treatment document.
+
 Lauren: Worked on major parts of the mining camp map. 
+
 Juliet: Worked on major parts of the cave map. 
+
 Griffin: Worked on major elements of both the cave and mining camp map alongside the runes. 
 
 
