@@ -36,6 +36,12 @@ Access our Design document
 ## Our Github Repository: 
 https://github.com/gribsyrup/ScalingTheSummitV1/
 
+## Access our builds here: 
+ <li class="masthead__menu-item">
+          <a href="[xxx.github.io/research.html](https://drive.google.com/file/d/1HKnkxW6sQz9YRbD-VvzLZh3M916t7j7Q/view?usp=sharing)">Alpha (1.0)</a>
+</li>
+
+
 # Blog post week 3(4/7): 
 
 ## Tech team: 
